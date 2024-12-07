@@ -1,6 +1,6 @@
 # Project 1: Prolog
 
-*Created for COMP30020 Declarative Programming, Semester 1, 2024*
+*Created for COMP30020 Declarative Programming in Semester 1 of 2024 for the University of Melbourne*
 
 ---
 
